@@ -1,0 +1,1 @@
+Repository for NVCM (Not Very Classic Mod), a Minecraft Classic 0.30 mod aiming to add new features, mobs, and blocks.
